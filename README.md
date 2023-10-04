@@ -11,18 +11,18 @@ Here is an expanded 600+ word article about using a class-based architecture and
 Building maintainable, reusable code is important for any WordPress theme. Using an object-oriented approach with classes is a best practice that allows your code to be organized, readable and flexible. 
 
 ## Table of Content
-- [Creating a Base Theme Class](##creating-a-base-theme-class)
-- [Class-Based Architecture for Extensible Code](##class-based-architecture-for-extensible-code)  
-  - [Extracting Reusable Components](###extracting-reusable-components)
-- [Mastering the Template Hierarchy](##mastering-the-template-hierarchy)
-- [Hook Into Actions for Total Theme Control](##hook-into-actions-for-total-theme-control)
-  - [Key Hook Points](###key-hook-points)
-- [Level Up With Advanced Ajax Techniques](##level-up-with-advanced-ajax-techniques)
-  - [Infinite Scrolling](###infinite-scrolling) 
-  - [Live Filters & Search](###live-filters--search)
-  - [Load More Buttons](###load-more-buttons)
-- [Build Custom WordPress Experiences](##build-custom-wordpress-experiences)  
-- [References](##references)
+- [Creating a Base Theme Class](#creating-a-base-theme-class)
+- [Class-Based Architecture for Extensible Code](#class-based-architecture-for-extensible-code)  
+  - [Extracting Reusable Components](#extracting-reusable-components)
+- [Mastering the Template Hierarchy](#mastering-the-template-hierarchy)
+- [Hook Into Actions for Total Theme Control](#hook-into-actions-for-total-theme-control)
+  - [Key Hook Points](#key-hook-points)
+- [Level Up With Advanced Ajax Techniques](#level-up-with-advanced-ajax-techniques)
+  - [Infinite Scrolling](#infinite-scrolling) 
+  - [Live Filters & Search](#live-filters--search)
+  - [Load More Buttons](#load-more-buttons)
+- [Build Custom WordPress Experiences](#build-custom-wordpress-experiences)  
+- [References](#references)
 
 
 ## Creating a Base Theme Class
